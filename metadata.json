@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Remix: WhatsApp E-Commerce",
+  "description": "An e-commerce website featuring easy search, categorized products, reactive cart, and an instant \u0027Login with WhatsApp\u0027 and order communication service.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
