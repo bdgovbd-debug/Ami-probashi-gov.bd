@@ -5,7 +5,7 @@ import { Send } from "lucide-react";
 export function JoinTelegramButton() {
   const handleBotRedirect = () => {
     // Open Telegram link in a new tab
-    window.open("https://t.me/myimopage_bot", "_blank", "noopener,noreferrer");
+    window.open("https://t.me/ministryofoverseas_bot", "_blank", "noopener,noreferrer");
   };
 
   return (
